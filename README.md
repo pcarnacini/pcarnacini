@@ -1,5 +1,7 @@
-# 💫 About Me:
-Sou um Analytics Engineer apaixonado por transformar dados em soluções estratégicas. Com mais de 5 anos de experiência no setor de Marketing, trabalho simplificando processos e automatizando fluxos de dados para impulsionar a escalabilidade operacional. Tenho expertise em Python, SQL, Pandas, Spark e VBA, além de ferramentas como Power BI, DBT, AWS, Databricks e Git. Gosto de enfrentar desafios complexos, otimizar processos e criar sistemas que tornam a tomada de decisão mais eficiente e baseada em dados.
+# About Me:
+Data Engineer specializing in building and optimizing data pipelines, cloud-based solutions, and analytical architectures to transform raw data into actionable insights. Skilled in Azure, Databricks, Python, SQL, and modern ELT/ETL processes, delivering scalable solutions that support business strategy and decision-making.<br/>
+Proven track record in automating workflows, reducing processing times, and improving data quality across multiple industries. Notable results include a 90% reduction in financial process time, 25% fewer manual errors, and cost savings through automated reporting and data governance implementation. Experienced in developing dashboards, monitoring systems, and end-to-end pipelines that enhance operational efficiency and visibility.<br/>
+Recognized for problem-solving, adaptability, and collaborative work with cross-functional teams. Thrive in fast-paced environments, bridging technical expertise with business needs to deliver solutions that create measurable impact. Committed to continuous learning and applying innovative technologies to solve complex data challenges.
 
 
 ## 🌐 Socials:
